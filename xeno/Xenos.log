@@ -1,0 +1,51 @@
+2023-12-23 19:18:09 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-23 19:19:05 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14456, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-23 19:19:05 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+2023-12-23 19:38:01 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14456, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-23 19:38:01 *ERROR*      Can not attach to the process.
+Es wurde versucht, auf einen Prozess zuzugreifen, der gerade beendet wurde.
+
+2023-12-23 19:38:09 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14456, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-23 19:38:09 *ERROR*      Can not attach to the process.
+Es wurde versucht, auf einen Prozess zuzugreifen, der gerade beendet wurde.
+
+2023-12-23 19:38:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13384, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-23 19:38:24 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+
+2023-12-24 02:30:51 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-24 02:31:47 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 3564, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-24 02:31:47 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+2023-12-24 14:43:51 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-24 14:43:59 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2192, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-24 14:43:59 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+2023-12-24 19:41:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2192, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-24 19:41:02 *ERROR*      Can not attach to the process.
+Es wurde versucht, auf einen Prozess zuzugreifen, der gerade beendet wurde.
+
+2023-12-24 19:41:05 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2192, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-24 19:41:05 *ERROR*      Can not attach to the process.
+Es wurde versucht, auf einen Prozess zuzugreifen, der gerade beendet wurde.
+
+2023-12-24 19:41:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2568, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-24 19:41:17 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+
+2023-12-24 23:11:37 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-24 23:11:42 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7444, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-24 23:11:42 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+
+2023-12-25 00:20:19 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-25 00:29:28 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16296, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-25 00:29:28 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+
+2023-12-25 15:27:55 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-25 15:27:59 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12044, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-25 15:27:59 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+2023-12-25 19:24:27 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-25 20:01:06 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 4748, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-25 20:01:06 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+2023-12-26 00:32:27 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-26 00:32:28 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 3452, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-26 00:32:28 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
+2023-12-26 10:31:17 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2023-12-26 10:31:20 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2092, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-12-26 10:31:20 *CRITICAL*   Injecting image 'C:\Users\Jim\Desktop\xeno\YimMenu.dll'
